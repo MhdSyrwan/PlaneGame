@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>stars.tga</Source>
+      <Name>stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\VarProjects\Docs\Visual Studio 2008\Projects\MyFirstGame\MyFirstGame\bin\x86\Release\Content\stars.xnb</Output>
+      <Time>2010-08-14T19:15:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>top.bmp</Source>
+      <Name>blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\VarProjects\Docs\Visual Studio 2008\Projects\MyFirstGame\MyFirstGame\bin\x86\Release\Content\blue.xnb</Output>
+      <Time>2010-08-23T01:34:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>top2.bmp</Source>
+      <Name>red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\VarProjects\Docs\Visual Studio 2008\Projects\MyFirstGame\MyFirstGame\bin\x86\Release\Content\red.xnb</Output>
+      <Time>2010-08-23T01:36:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>explode_1.bmp</Source>
+      <Name>explode</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\VarProjects\Docs\Visual Studio 2008\Projects\MyFirstGame\MyFirstGame\bin\x86\Release\Content\explode.xnb</Output>
+      <Time>2010-08-27T20:11:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.jpg</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\VarProjects\Docs\Visual Studio 2008\Projects\MyFirstGame\MyFirstGame\bin\x86\Release\Content\bullet.xnb</Output>
+      <Time>2010-08-28T09:51:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\VarProjects\Docs\Visual Studio 2008\Projects\MyFirstGame\MyFirstGame\bin\x86\Release\Content\Font.xnb</Output>
+      <Time>2010-08-19T03:01:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hit .wav</Source>
+      <Name>hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\VarProjects\Docs\Visual Studio 2008\Projects\MyFirstGame\MyFirstGame\bin\x86\Release\Content\hit.xnb</Output>
+      <Time>2010-08-28T10:06:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Laser.wav</Source>
+      <Name>Laser</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\VarProjects\Docs\Visual Studio 2008\Projects\MyFirstGame\MyFirstGame\bin\x86\Release\Content\Laser.xnb</Output>
+      <Time>2010-08-28T10:14:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion-02.wav</Source>
+      <Name>explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\VarProjects\Docs\Visual Studio 2008\Projects\MyFirstGame\MyFirstGame\bin\x86\Release\Content\explosion.xnb</Output>
+      <Time>2010-08-28T10:22:32+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>E:\VarProjects\Docs\Visual Studio 2008\Projects\MyFirstGame\MyFirstGame\Content\</RootDirectory>
+      <LoggerRootDirectory>E:\VarProjects\Docs\Visual Studio 2008\Projects\MyFirstGame\MyFirstGame\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\VarProjects\Docs\Visual Studio 2008\Projects\MyFirstGame\MyFirstGame\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>E:\VarProjects\Docs\Visual Studio 2008\Projects\MyFirstGame\MyFirstGame\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-09-23T04:55:06.1232992+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
